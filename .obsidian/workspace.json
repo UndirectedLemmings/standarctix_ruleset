@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фракции.md",
+                "file": "Характеристики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фракции"
+              "title": "Характеристики"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "1b77e4c97780c698",
   "lastOpenFiles": [
-    "ЛОР.md",
     "Фракции.md",
+    "ЛОР.md",
     "Боги.md",
     "Стандарктикс.md",
     "Механика.md",
