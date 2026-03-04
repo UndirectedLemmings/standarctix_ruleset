@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Характеристики.md",
+                "file": "ЛОР.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Характеристики"
+              "title": "ЛОР"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Механика.md",
+                "file": "Проверки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Механика"
+              "title": "Проверки"
             }
           },
           {
@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Механика.md",
+                "file": "Характеристики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Механика"
+              "title": "Характеристики"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,16 +198,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "1b77e4c97780c698",
+  "active": "6782980f883d2117",
   "lastOpenFiles": [
-    "Фракции.md",
-    "ЛОР.md",
-    "Боги.md",
-    "Стандарктикс.md",
-    "Механика.md",
-    "test.md",
-    "Характеристики.md",
     "Проверки.md",
+    "Характеристики.md",
+    "Механика.md",
+    "ЛОР.md",
+    "Монстрятник.md",
+    "Стандарктикс.md",
+    "Фракции.md",
+    "Боги.md",
+    "test.md",
     "create a link.md"
   ]
 }
