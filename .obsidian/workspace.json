@@ -27,12 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проверки.md",
+                "file": "Боги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проверки"
+              "title": "Боги"
+            }
+          },
+          {
+            "id": "d3416f4880f36536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Марзистэнсия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Марзистэнсия"
+            }
+          },
+          {
+            "id": "39d40ea9448e92b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мэйлгрунти.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мэйлгрунти"
+            }
+          },
+          {
+            "id": "2e161abe38a82de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Авотакс.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Авотакс"
             }
           }
         ],
@@ -186,14 +228,20 @@
   },
   "active": "6782980f883d2117",
   "lastOpenFiles": [
-    "серости.md",
+    "Марзистэнсия.md",
+    "Мэйлгрунти.md",
+    "Боги.md",
+    "Авотакс.md",
+    "Паренонхия.md",
+    "Логицея.md",
+    "Фелинда.md",
     "Проверки.md",
     "Механика.md",
+    "Характеристики.md",
     "Фракции.md",
     "Стандарктикс.md",
     "Союз Лавы.md",
-    "Характеристики.md",
-    "Боги.md",
+    "серости.md",
     "ЛОР.md",
     "Монстрятник.md",
     "test.md",
